@@ -140,20 +140,20 @@ class GPUObliqueRandomForest:
         return maj_vote
 
 # Example usage:
-if __name__ == '__main__':
-    # Create synthetic data for demonstration (binary classification)
-    np.random.seed(42)
-    n_samples = 1000
-    n_features = 20
-    X_cpu = np.random.randn(n_samples, n_features)
-    # Create labels with a simple linear rule (with noise)
-    y_cpu = (X_cpu[:, 0] + X_cpu[:, 1] > 0).astype(int)
+# if __name__ == '__main__':
+#     # Create synthetic data for demonstration (binary classification)
+#     np.random.seed(42)
+#     n_samples = 1000
+#     n_features = 20
+#     X_cpu = np.random.randn(n_samples, n_features)
+#     # Create labels with a simple linear rule (with noise)
+#     y_cpu = (X_cpu[:, 0] + X_cpu[:, 1] > 0).astype(int)
 
-    # Initialize and train the GPU-accelerated oblique random forest
-    gpu_rf = GPUObliqueRandomForest(n_estimators=5, max_depth=5, min_samples_leaf=10, n_candidates=20)
-    gpu_rf.fit(X_cpu, y_cpu)
+#     # Initialize and train the GPU-accelerated oblique random forest
+#     gpu_rf = GPUObliqueRandomForest(n_estimators=5, max_depth=5, min_samples_leaf=10, n_candidates=20)
+#     gpu_rf.fit(X_cpu, y_cpu)
 
-    # Predict on the training data
-    predictions = gpu_rf.predict(X_cpu)
-    accuracy = np.mean(predictions == y_cpu)
-    print(f"Accuracy on synthetic data: {accuracy:.4f}")
+#     # Predict on the training data
+#     predictions = gpu_rf.predict(X_cpu)
+#     accuracy = np.mean(predictions == y_cpu)
+#     print(f"Accuracy on synthetic data: {accuracy:.4f}")
