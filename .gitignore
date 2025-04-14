@@ -4,3 +4,5 @@ __pycache__
 catboost_info
 saved_model
 yggdrasil_decision_forest
+yggdrasilDecisionForests
+.DS_Store
