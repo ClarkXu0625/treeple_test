@@ -1,0 +1,710 @@
+Model trained in 0:00:01.560159
+Train model on 1600 examples
+Model trained in 0:00:01.556021
+Train model on 1600 examples
+Model trained in 0:00:01.561751
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 63.86568965517242
+Average non-zeros per projection matrix: 4087.40
+===========================================================================
+projection matrix shape: (128, 512)
+Created projection matrix with the following parameters:
+n_feature =  512 
+n_samples =  2000 
+max_features =  128 
+feature_combinations =  32.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 512 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 128 | n_column: 512 | treeple_non_zeros: 4096
+Feature combinations: 32.0 | max_features: 128
+------------------------------------------
+YDF parameters:
+exponent: 2.2857142857142856 | density_factor: 32.0 | max_num_projection: 128 | projection_density: 0.06
+num of projections: 128 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:02.122086
+Train model on 1600 examples
+Model trained in 0:00:02.149500
+Train model on 1600 examples
+Model trained in 0:00:02.130302
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 31.780344827586205
+Average non-zeros per projection matrix: 4067.88
+===========================================================================
+projection matrix shape: (256, 512)
+Created projection matrix with the following parameters:
+n_feature =  512 
+n_samples =  2000 
+max_features =  256 
+feature_combinations =  16.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 512 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 256 | n_column: 512 | treeple_non_zeros: 4096
+Feature combinations: 16.0 | max_features: 256
+------------------------------------------
+YDF parameters:
+exponent: 2.125 | density_factor: 16.0 | max_num_projection: 256 | projection_density: 0.03
+num of projections: 256 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:03.396648
+Train model on 1600 examples
+Model trained in 0:00:03.400240
+Train model on 1600 examples
+Model trained in 0:00:03.393787
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 15.901896551724137
+Average non-zeros per projection matrix: 4070.89
+===========================================================================
+projection matrix shape: (512, 512)
+Created projection matrix with the following parameters:
+n_feature =  512 
+n_samples =  2000 
+max_features =  512 
+feature_combinations =  8.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 512 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 512 | n_column: 512 | treeple_non_zeros: 4096
+Feature combinations: 8.0 | max_features: 512
+------------------------------------------
+YDF parameters:
+exponent: 2.0 | density_factor: 8.0 | max_num_projection: 512 | projection_density: 0.02
+num of projections: 512 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:06.009908
+Train model on 1600 examples
+Model trained in 0:00:06.185543
+Train model on 1600 examples
+Model trained in 0:00:06.445203
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 7.747931034482758
+Average non-zeros per projection matrix: 3966.94
+===========================================================================
+projection matrix shape: (1024, 512)
+Created projection matrix with the following parameters:
+n_feature =  512 
+n_samples =  2000 
+max_features =  1024 
+feature_combinations =  4.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 512 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 1024 | n_column: 512 | treeple_non_zeros: 4096
+Feature combinations: 4.0 | max_features: 1024
+------------------------------------------
+YDF parameters:
+exponent: 1.9 | density_factor: 4.0 | max_num_projection: 1024 | projection_density: 0.01
+num of projections: 1024 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:11.253755
+Train model on 1600 examples
+Model trained in 0:00:11.272408
+Train model on 1600 examples
+Model trained in 0:00:11.267812
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 3.606379310344827
+Average non-zeros per projection matrix: 3692.93
+===========================================================================
+projection matrix shape: (2048, 512)
+Created projection matrix with the following parameters:
+n_feature =  512 
+n_samples =  2000 
+max_features =  2048 
+feature_combinations =  2.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 512 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 2048 | n_column: 512 | treeple_non_zeros: 4096
+Feature combinations: 2.0 | max_features: 2048
+------------------------------------------
+YDF parameters:
+exponent: 1.8181818181818181 | density_factor: 2.0 | max_num_projection: 2048 | projection_density: 0.00
+num of projections: 2048 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:22.311504
+Train model on 1600 examples
+Model trained in 0:00:21.877013
+Train model on 1600 examples
+Model trained in 0:00:22.135068
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 2.167413793103448
+Average non-zeros per projection matrix: 4438.86
+===========================================================================
+projection matrix shape: (4096, 512)
+Created projection matrix with the following parameters:
+n_feature =  512 
+n_samples =  2000 
+max_features =  4096 
+feature_combinations =  1.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 512 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 4096 | n_column: 512 | treeple_non_zeros: 4096
+Feature combinations: 1.0 | max_features: 4096
+------------------------------------------
+YDF parameters:
+exponent: 1.75 | density_factor: 1.0 | max_num_projection: 4096 | projection_density: 0.00
+num of projections: 4096 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:44.384145
+Train model on 1600 examples
+Model trained in 0:00:42.933161
+Train model on 1600 examples
+Model trained in 0:00:43.381861
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 1.7710344827586206
+Average non-zeros per projection matrix: 7254.16
+===========================================================================
+projection matrix shape: (64, 1024)
+Created projection matrix with the following parameters:
+n_feature =  1024 
+n_samples =  2000 
+max_features =  64 
+feature_combinations =  64.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 1024 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 64 | n_column: 1024 | treeple_non_zeros: 4096
+Feature combinations: 64.0 | max_features: 64
+------------------------------------------
+YDF parameters:
+exponent: 2.666666666666667 | density_factor: 64.0 | max_num_projection: 64 | projection_density: 0.06
+num of projections: 64 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:01.891104
+Train model on 1600 examples
+Model trained in 0:00:01.943475
+Train model on 1600 examples
+Model trained in 0:00:01.911878
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 64.01310344827587
+Average non-zeros per projection matrix: 4096.84
+===========================================================================
+projection matrix shape: (128, 1024)
+Created projection matrix with the following parameters:
+n_feature =  1024 
+n_samples =  2000 
+max_features =  128 
+feature_combinations =  32.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 1024 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 128 | n_column: 1024 | treeple_non_zeros: 4096
+Feature combinations: 32.0 | max_features: 128
+------------------------------------------
+YDF parameters:
+exponent: 2.428571428571429 | density_factor: 32.0 | max_num_projection: 128 | projection_density: 0.03
+num of projections: 128 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:02.651236
+Train model on 1600 examples
+Model trained in 0:00:02.765161
+Train model on 1600 examples
+Model trained in 0:00:02.775786
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 32.047586206896554
+Average non-zeros per projection matrix: 4102.09
+===========================================================================
+projection matrix shape: (256, 1024)
+Created projection matrix with the following parameters:
+n_feature =  1024 
+n_samples =  2000 
+max_features =  256 
+feature_combinations =  16.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 1024 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 256 | n_column: 1024 | treeple_non_zeros: 4096
+Feature combinations: 16.0 | max_features: 256
+------------------------------------------
+YDF parameters:
+exponent: 2.25 | density_factor: 16.0 | max_num_projection: 256 | projection_density: 0.02
+num of projections: 256 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:04.600894
+Train model on 1600 examples
+Model trained in 0:00:04.367579
+Train model on 1600 examples
+Model trained in 0:00:04.357409
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 15.837241379310344
+Average non-zeros per projection matrix: 4054.33
+===========================================================================
+projection matrix shape: (512, 1024)
+Created projection matrix with the following parameters:
+n_feature =  1024 
+n_samples =  2000 
+max_features =  512 
+feature_combinations =  8.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 1024 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 512 | n_column: 1024 | treeple_non_zeros: 4096
+Feature combinations: 8.0 | max_features: 512
+------------------------------------------
+YDF parameters:
+exponent: 2.111111111111111 | density_factor: 8.0 | max_num_projection: 512 | projection_density: 0.01
+num of projections: 512 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:07.911977
+Train model on 1600 examples
+Model trained in 0:00:07.867496
+Train model on 1600 examples
+Model trained in 0:00:07.881556
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 7.715000000000001
+Average non-zeros per projection matrix: 3950.08
+===========================================================================
+projection matrix shape: (1024, 1024)
+Created projection matrix with the following parameters:
+n_feature =  1024 
+n_samples =  2000 
+max_features =  1024 
+feature_combinations =  4.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 1024 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 1024 | n_column: 1024 | treeple_non_zeros: 4096
+Feature combinations: 4.0 | max_features: 1024
+------------------------------------------
+YDF parameters:
+exponent: 2.0 | density_factor: 4.0 | max_num_projection: 1024 | projection_density: 0.00
+num of projections: 1024 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:14.924360
+Train model on 1600 examples
+Model trained in 0:00:14.935168
+Train model on 1600 examples
+Model trained in 0:00:14.864771
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 3.5636206896551723
+Average non-zeros per projection matrix: 3649.15
+===========================================================================
+projection matrix shape: (2048, 1024)
+Created projection matrix with the following parameters:
+n_feature =  1024 
+n_samples =  2000 
+max_features =  2048 
+feature_combinations =  2.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 1024 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 2048 | n_column: 1024 | treeple_non_zeros: 4096
+Feature combinations: 2.0 | max_features: 2048
+------------------------------------------
+YDF parameters:
+exponent: 1.9090909090909092 | density_factor: 2.0 | max_num_projection: 2048 | projection_density: 0.00
+num of projections: 2048 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:28.746338
+Train model on 1600 examples
+Model trained in 0:00:28.799523
+Train model on 1600 examples
+Model trained in 0:00:29.258651
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 2.048620689655172
+Average non-zeros per projection matrix: 4195.58
+===========================================================================
+projection matrix shape: (4096, 1024)
+Created projection matrix with the following parameters:
+n_feature =  1024 
+n_samples =  2000 
+max_features =  4096 
+feature_combinations =  1.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 1024 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 4096 | n_column: 1024 | treeple_non_zeros: 4096
+Feature combinations: 1.0 | max_features: 4096
+------------------------------------------
+YDF parameters:
+exponent: 1.8333333333333335 | density_factor: 1.0 | max_num_projection: 4096 | projection_density: 0.00
+num of projections: 4096 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:56.908249
+Train model on 1600 examples
+Model trained in 0:00:57.449999
+Train model on 1600 examples
+Model trained in 0:00:56.771298
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 1.6294827586206897
+Average non-zeros per projection matrix: 6674.36
+===========================================================================
+projection matrix shape: (64, 2048)
+Created projection matrix with the following parameters:
+n_feature =  2048 
+n_samples =  2000 
+max_features =  64 
+feature_combinations =  64.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 2048 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 64 | n_column: 2048 | treeple_non_zeros: 4096
+Feature combinations: 64.0 | max_features: 64
+------------------------------------------
+YDF parameters:
+exponent: 2.8333333333333335 | density_factor: 64.0 | max_num_projection: 64 | projection_density: 0.03
+num of projections: 64 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:00.154788
+Train model on 1600 examples
+Model trained in 0:00:00.152882
+Train model on 1600 examples
+Model trained in 0:00:00.156717
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 63.86344827586207
+Average non-zeros per projection matrix: 4087.26
+===========================================================================
+projection matrix shape: (128, 2048)
+Created projection matrix with the following parameters:
+n_feature =  2048 
+n_samples =  2000 
+max_features =  128 
+feature_combinations =  32.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 2048 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 128 | n_column: 2048 | treeple_non_zeros: 4096
+Feature combinations: 32.0 | max_features: 128
+------------------------------------------
+YDF parameters:
+exponent: 2.5714285714285716 | density_factor: 32.0 | max_num_projection: 128 | projection_density: 0.02
+num of projections: 128 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:03.711431
+Train model on 1600 examples
+Model trained in 0:00:03.635906
+Train model on 1600 examples
+Model trained in 0:00:03.661818
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 31.90655172413793
+Average non-zeros per projection matrix: 4084.04
+===========================================================================
+projection matrix shape: (256, 2048)
+Created projection matrix with the following parameters:
+n_feature =  2048 
+n_samples =  2000 
+max_features =  256 
+feature_combinations =  16.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 2048 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 256 | n_column: 2048 | treeple_non_zeros: 4096
+Feature combinations: 16.0 | max_features: 256
+------------------------------------------
+YDF parameters:
+exponent: 2.375 | density_factor: 16.0 | max_num_projection: 256 | projection_density: 0.01
+num of projections: 256 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:06.203590
+Train model on 1600 examples
+Model trained in 0:00:06.213799
+Train model on 1600 examples
+Model trained in 0:00:06.477581
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 15.87103448275862
+Average non-zeros per projection matrix: 4062.98
+===========================================================================
+projection matrix shape: (512, 2048)
+Created projection matrix with the following parameters:
+n_feature =  2048 
+n_samples =  2000 
+max_features =  512 
+feature_combinations =  8.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 2048 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 512 | n_column: 2048 | treeple_non_zeros: 4096
+Feature combinations: 8.0 | max_features: 512
+------------------------------------------
+YDF parameters:
+exponent: 2.2222222222222223 | density_factor: 8.0 | max_num_projection: 512 | projection_density: 0.00
+num of projections: 512 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:11.598883
+Train model on 1600 examples
+Model trained in 0:00:11.808706
+Train model on 1600 examples
+Model trained in 0:00:11.607422
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 7.837068965517242
+Average non-zeros per projection matrix: 4012.58
+===========================================================================
+projection matrix shape: (1024, 2048)
+Created projection matrix with the following parameters:
+n_feature =  2048 
+n_samples =  2000 
+max_features =  1024 
+feature_combinations =  4.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 2048 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 1024 | n_column: 2048 | treeple_non_zeros: 4096
+Feature combinations: 4.0 | max_features: 1024
+------------------------------------------
+YDF parameters:
+exponent: 2.1 | density_factor: 4.0 | max_num_projection: 1024 | projection_density: 0.00
+num of projections: 1024 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:22.234761
+Train model on 1600 examples
+Model trained in 0:00:22.637346
+Train model on 1600 examples
+Model trained in 0:00:22.224843
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 3.7070689655172413
+Average non-zeros per projection matrix: 3796.04
+===========================================================================
+projection matrix shape: (2048, 2048)
+Created projection matrix with the following parameters:
+n_feature =  2048 
+n_samples =  2000 
+max_features =  2048 
+feature_combinations =  2.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 2048 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 2048 | n_column: 2048 | treeple_non_zeros: 4096
+Feature combinations: 2.0 | max_features: 2048
+------------------------------------------
+YDF parameters:
+exponent: 2.0 | density_factor: 2.0 | max_num_projection: 2048 | projection_density: 0.00
+num of projections: 2048 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:43.241250
+Train model on 1600 examples
+Model trained in 0:00:43.628765
+Train model on 1600 examples
+Model trained in 0:00:43.722083
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 1.9913793103448276
+Average non-zeros per projection matrix: 4078.34
+===========================================================================
+projection matrix shape: (4096, 2048)
+Created projection matrix with the following parameters:
+n_feature =  2048 
+n_samples =  2000 
+max_features =  4096 
+feature_combinations =  1.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 2048 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 4096 | n_column: 2048 | treeple_non_zeros: 4096
+Feature combinations: 1.0 | max_features: 4096
+------------------------------------------
+YDF parameters:
+exponent: 1.9166666666666667 | density_factor: 1.0 | max_num_projection: 4096 | projection_density: 0.00
+num of projections: 4096 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:01:26.228749
+Train model on 1600 examples
+Model trained in 0:01:25.926761
+Train model on 1600 examples
+Model trained in 0:01:25.635947
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 1.4446551724137933
+Average non-zeros per projection matrix: 5917.31
+===========================================================================
+projection matrix shape: (64, 4096)
+Created projection matrix with the following parameters:
+n_feature =  4096 
+n_samples =  2000 
+max_features =  64 
+feature_combinations =  64.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 4096 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 64 | n_column: 4096 | treeple_non_zeros: 4096
+Feature combinations: 64.0 | max_features: 64
+------------------------------------------
+YDF parameters:
+exponent: 3.0 | density_factor: 64.0 | max_num_projection: 64 | projection_density: 0.02
+num of projections: 64 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:00.281077
+Train model on 1600 examples
+Model trained in 0:00:00.255119
+Train model on 1600 examples
+Model trained in 0:00:00.266818
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 64.02762907960629
+Average non-zeros per projection matrix: 4097.77
+===========================================================================
+projection matrix shape: (128, 4096)
+Created projection matrix with the following parameters:
+n_feature =  4096 
+n_samples =  2000 
+max_features =  128 
+feature_combinations =  32.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 4096 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 128 | n_column: 4096 | treeple_non_zeros: 4096
+Feature combinations: 32.0 | max_features: 128
+------------------------------------------
+YDF parameters:
+exponent: 2.7142857142857144 | density_factor: 32.0 | max_num_projection: 128 | projection_density: 0.01
+num of projections: 128 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:00.233165
+Train model on 1600 examples
+Model trained in 0:00:00.243097
+Train model on 1600 examples
+Model trained in 0:00:00.241422
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 31.971689970654236
+Average non-zeros per projection matrix: 4092.38
+===========================================================================
+projection matrix shape: (256, 4096)
+Created projection matrix with the following parameters:
+n_feature =  4096 
+n_samples =  2000 
+max_features =  256 
+feature_combinations =  16.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 4096 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 256 | n_column: 4096 | treeple_non_zeros: 4096
+Feature combinations: 16.0 | max_features: 256
+------------------------------------------
+YDF parameters:
+exponent: 2.5 | density_factor: 16.0 | max_num_projection: 256 | projection_density: 0.00
+num of projections: 256 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:09.908154
+Train model on 1600 examples
+Model trained in 0:00:09.917247
+Train model on 1600 examples
+Model trained in 0:00:09.879381
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 15.940172413793103
+Average non-zeros per projection matrix: 4080.68
+===========================================================================
+projection matrix shape: (512, 4096)
+Created projection matrix with the following parameters:
+n_feature =  4096 
+n_samples =  2000 
+max_features =  512 
+feature_combinations =  8.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 4096 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 512 | n_column: 4096 | treeple_non_zeros: 4096
+Feature combinations: 8.0 | max_features: 512
+------------------------------------------
+YDF parameters:
+exponent: 2.333333333333333 | density_factor: 8.0 | max_num_projection: 512 | projection_density: 0.00
+num of projections: 512 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:18.783387
+Train model on 1600 examples
+Model trained in 0:00:18.816675
+Train model on 1600 examples
+Model trained in 0:00:18.844350
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 7.918103448275862
+Average non-zeros per projection matrix: 4054.07
+===========================================================================
+projection matrix shape: (1024, 4096)
+Created projection matrix with the following parameters:
+n_feature =  4096 
+n_samples =  2000 
+max_features =  1024 
+feature_combinations =  4.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 4096 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 1024 | n_column: 4096 | treeple_non_zeros: 4096
+Feature combinations: 4.0 | max_features: 1024
+------------------------------------------
+YDF parameters:
+exponent: 2.2 | density_factor: 4.0 | max_num_projection: 1024 | projection_density: 0.00
+num of projections: 1024 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:00:37.640748
+Train model on 1600 examples
+Model trained in 0:00:36.694341
+Train model on 1600 examples
+Model trained in 0:00:36.540699
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 3.7718965517241383
+Average non-zeros per projection matrix: 3862.42
+===========================================================================
+projection matrix shape: (2048, 4096)
+Created projection matrix with the following parameters:
+n_feature =  4096 
+n_samples =  2000 
+max_features =  2048 
+feature_combinations =  2.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 4096 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 2048 | n_column: 4096 | treeple_non_zeros: 4096
+Feature combinations: 2.0 | max_features: 2048
+------------------------------------------
+YDF parameters:
+exponent: 2.090909090909091 | density_factor: 2.0 | max_num_projection: 2048 | projection_density: 0.00
+num of projections: 2048 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:01:13.677105
+Train model on 1600 examples
+Model trained in 0:01:12.512287
+Train model on 1600 examples
+Model trained in 0:01:12.850936
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 1.9701724137931034
+Average non-zeros per projection matrix: 4034.91
+===========================================================================
+projection matrix shape: (4096, 4096)
+Created projection matrix with the following parameters:
+n_feature =  4096 
+n_samples =  2000 
+max_features =  4096 
+feature_combinations =  1.0
+max_features * feature_combinations =  4096.0
+Number of non-zeros:  4096
+-----------------------------------------
+Constants: n_dim: 4096 | n_tree: 200 | n_samples: 2000 | target_non_zeros: 4096 | n_rep: 3
+Projection matrix: n_row: 4096 | n_column: 4096 | treeple_non_zeros: 4096
+Feature combinations: 1.0 | max_features: 4096
+------------------------------------------
+YDF parameters:
+exponent: 2.0 | density_factor: 1.0 | max_num_projection: 4096 | projection_density: 0.00
+num of projections: 4096 | expected non-zeros: 4096.00
+Train model on 1600 examples
+Model trained in 0:02:24.210266
+Train model on 1600 examples
+Model trained in 0:02:25.565718
+Train model on 1600 examples
+Model trained in 0:02:23.453184
+-----------------------------------------
+Average nonzeros number in projection vectors among all nodes: 1.376206896551724
+Average non-zeros per projection matrix: 5636.94
